@@ -1,4 +1,4 @@
-FROM php:7.1.33-apache
+FROM php:7.4.32-apache
 
 LABEL maintainer="phithon <root@leavesongs.com>"
 
